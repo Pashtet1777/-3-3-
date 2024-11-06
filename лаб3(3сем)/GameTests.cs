@@ -12,7 +12,7 @@ namespace лаб3_3сем_ // Замените "YourNamespace" на реальн
     [TestFixture]
     public class GameTests
     {
-        [Test]
+        [Test]==
         public void SaveGame_ShouldSaveStateCorrectly()
         {
             // Arrange
